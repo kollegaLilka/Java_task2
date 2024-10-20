@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flowers xmlns="http://example.org/flowers">
+
+    <flower id="ID1">
+        <name>Rose</name>
+        <soil>ground</soil>
+        <origin>England</origin>
+        <visual_parameters>
+            <average_size>70</average_size>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>700</weekly_watering>
+            <growth_temperature>22</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2021-06-15</receipt_date>
+    </flower>
+
+    <poisonous_flower id="ID2" danger_level="medium">
+        <name>Meconopsis</name>
+        <soil>ground</soil>
+        <origin>Chile</origin>
+        <visual_parameters>
+            <petals_colour>purple</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>50</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>500</weekly_watering>
+            <growth_temperature>27</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2020-07-16</receipt_date>
+    </poisonous_flower>
+
+</flowers>

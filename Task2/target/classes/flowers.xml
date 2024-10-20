@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flowers xmlns="http://example.org/flowers">
+
+    <flower id="ID1">
+        <name>Rose</name>
+        <soil>ground</soil>
+        <origin>England</origin>
+        <visual_parameters>
+            <average_size>70</average_size>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>700</weekly_watering>
+            <growth_temperature>22</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2021-06-15</receipt_date>
+    </flower>
+
+    <flower id="ID2">
+        <name>Orchid</name>
+        <soil>sod-podzolic</soil>
+        <origin>Italy</origin>
+        <visual_parameters>
+            <petals_colour>various</petals_colour>
+            <average_size>25</average_size>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <growth_temperature>21</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+            <weekly_watering>430</weekly_watering>
+        </growing_tips>
+        <multiplying>seed</multiplying>
+        <receipt_date>2021-05-14</receipt_date>
+    </flower>
+
+    <flower id="ID3">
+        <name>Tulip</name>
+        <soil>humus</soil>
+        <origin>Netherlands</origin>
+        <visual_parameters>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>40</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>500</weekly_watering>
+            <growth_temperature>22</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>seed</multiplying>
+        <receipt_date>2021-04-13</receipt_date>
+    </flower>
+
+    <flower id="ID4">
+        <name>Sunflower</name>
+        <soil>podzolic</soil>
+        <origin>Brazil</origin>
+        <visual_parameters>
+            <petals_colour>yellow</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>150</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>500</weekly_watering>
+            <growth_temperature>25</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>seed</multiplying>
+        <receipt_date>2021-03-12</receipt_date>
+    </flower>
+
+    <flower id="ID5">
+        <name>Forget-me-not</name>
+        <soil>humus</soil>
+        <origin>France</origin>
+        <visual_parameters>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>15</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <growth_temperature>20</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+            <weekly_watering>500</weekly_watering>
+        </growing_tips>
+        <multiplying>seed</multiplying>
+        <receipt_date>2021-02-11</receipt_date>
+    </flower>
+
+    <flower id="ID6">
+        <name>Anemone</name>
+        <soil>sod-podzolic</soil>
+        <origin>England</origin>
+        <visual_parameters>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>77</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>500</weekly_watering>
+            <growth_temperature>25</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2021-01-10</receipt_date>
+    </flower>
+
+    <poisonous_flower id="ID7" danger_level="medium">
+        <name>Meconopsis</name>
+        <soil>ground</soil>
+        <origin>Chile</origin>
+        <visual_parameters>
+            <petals_colour>purple</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>50</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>500</weekly_watering>
+            <growth_temperature>27</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2020-07-16</receipt_date>
+    </poisonous_flower>
+    
+    <flower id="ID8">
+        <name>Chamomile</name>
+        <soil>humus</soil>
+        <origin>Russia</origin>
+        <visual_parameters>
+            <average_size>10</average_size>
+            <petals_colour>white</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>100</weekly_watering>
+            <growth_temperature>20</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2020-12-15</receipt_date>
+    </flower>
+    
+    <flower id="ID9">
+        <name>Cornflower</name>
+        <soil>ground</soil>
+        <origin>Belarus</origin>
+        <visual_parameters>
+            <average_size>50</average_size>
+            <petals_colour>blue</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>200</weekly_watering>
+            <growth_temperature>21</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2021-08-23</receipt_date>
+    </flower>
+    
+    <flower id="ID10">
+        <name>Pion</name>
+        <soil>ground</soil>
+        <origin>England</origin>
+        <visual_parameters>
+            <average_size>60</average_size>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>700</weekly_watering>
+            <growth_temperature>22</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2020-06-20</receipt_date>
+    </flower>
+
+    <flower id="ID11">
+        <name>Dandelion</name>
+        <soil>humus</soil>
+        <origin>Ukraine</origin>
+        <visual_parameters>
+            <average_size>15</average_size>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>50</weekly_watering>
+            <growth_temperature>15</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>seed</multiplying>
+        <receipt_date>2021-06-21</receipt_date>
+    </flower>
+       
+    <poisonous_flower id="ID12" danger_level="high">
+        <name>Belladonna</name>
+        <soil>humus</soil>
+        <origin>Armenia</origin>
+        <visual_parameters>
+            <petals_colour>purple</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>80</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>350</weekly_watering>
+            <growth_temperature>24</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>seed</multiplying>
+        <receipt_date>2020-07-18</receipt_date>
+    </poisonous_flower>
+    
+    <flower id="ID13">
+        <name>Poppy</name>
+        <soil>ground</soil>
+        <origin>Germany</origin>
+        <visual_parameters>
+            <average_size>45</average_size>
+            <petals_colour>red</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>500</weekly_watering>
+            <growth_temperature>26</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>seed</multiplying>
+        <receipt_date>2021-03-03</receipt_date>
+    </flower>
+    
+    <flower id="ID14">
+        <name>Fuchsia</name>
+        <soil>sod-podzolic</soil>
+        <origin>Austria</origin>
+        <visual_parameters>
+            <average_size>12</average_size>
+            <petals_colour>various</petals_colour>
+            <stem_colour>green</stem_colour>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>550</weekly_watering>
+            <growth_temperature>23</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2021-04-30</receipt_date>
+    </flower>
+    
+    <poisonous_flower id="ID15" danger_level="medium">
+        <name>May-lily</name>
+        <soil>humus</soil>
+        <origin>Belarus</origin>
+        <visual_parameters>
+            <petals_colour>white</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>20</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>450</weekly_watering>
+            <growth_temperature>20</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2019-11-04</receipt_date>
+    </poisonous_flower>
+    
+    <poisonous_flower id="ID16" danger_level="low">
+        <name>Buttercup</name>
+        <soil>ground</soil>
+        <origin>Russia</origin>
+        <visual_parameters>
+            <petals_colour>yellow</petals_colour>
+            <stem_colour>green</stem_colour>
+            <average_size>11</average_size>
+        </visual_parameters>
+        <growing_tips>
+            <weekly_watering>220</weekly_watering>
+            <growth_temperature>25</growth_temperature>
+            <is_photophilous>true</is_photophilous>
+        </growing_tips>
+        <multiplying>stalk</multiplying>
+        <receipt_date>2019-06-15</receipt_date>
+    </poisonous_flower>
+
+</flowers>
